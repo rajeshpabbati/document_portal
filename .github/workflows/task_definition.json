@@ -28,7 +28,7 @@
       ],
       "secrets": [
         {
-          "name": "APIKEYLIVECLASS",
+          "name": "API_KEYS",
           "valueFrom": "arn:aws:secretsmanager:ap-south-1:977098991913:secret:api_keys-awtq5s"
         }
       ],
